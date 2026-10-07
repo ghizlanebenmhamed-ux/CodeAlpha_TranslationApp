@@ -1,2 +1,0 @@
-7 automated tests passed: stored FAQ matching, example questions and fallback, Send handler, Enter handler, empty input, error response, and clearing chat.
-GUI handlers tested using mock widgets. Desktop window was not visually tested in this environment.
