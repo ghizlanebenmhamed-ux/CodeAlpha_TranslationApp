@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Translation App</title><link rel="stylesheet" href="style.css"><script src="script.js" defer></script></head>
+<body><main><header><div class="brand">Translation App</div><p>A little closer, in every language.</p></header>
+<nav aria-label="Translation mode"><button class="tab active" id="textTab">Text translation</button><button class="tab" id="voiceTab">Voice translation</button></nav>
+<section class="intro"><h1 id="heading">Make your words understood.</h1><p id="description">Choose your languages, write your message, and translate.</p></section>
+<section class="translator"><div class="languages"><label>From<select id="source" aria-label="Source language"></select></label><button id="swap" class="swap" aria-label="Swap languages">Swap</button><label>To<select id="target" aria-label="Target language"></select></label></div>
+<div class="panels"><div class="panel"><div class="panelTitle"><span>Your message</span><button id="clear" class="quiet">Clear</button></div><textarea id="input" dir="auto" placeholder="Start typing here…" aria-label="Text to translate"></textarea><div class="panelFooter"><span id="count">0 / 500 bytes</span><button id="record" hidden>Start microphone</button></div></div>
+<div class="panel output"><div class="panelTitle"><span>Translation</span><div><button id="copy" class="quiet">Copy</button><button id="speak" class="quiet">Listen</button></div></div><textarea id="output" dir="auto" readonly placeholder="Your translation appears here" aria-label="Translated text"></textarea><div class="panelFooter"><span>MyMemory translation API</span></div></div></div>
+<div class="actions"><p id="status" role="status" aria-live="polite">Ready to translate.</p><button id="translate" class="primary">Translate</button></div></section>
+<section class="history"><div class="historyHeading"><h2>Recent translations</h2><button id="clearHistory" class="quiet">Clear history</button></div><div id="historyList"><p class="muted">Your recent translations will appear here.</p></div></section>
+<footer>Use full sentences for better context. Translations require internet. Microphone support depends on your browser.</footer></main></body></html>
