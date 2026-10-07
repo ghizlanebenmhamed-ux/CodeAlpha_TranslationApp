@@ -16,8 +16,7 @@ Python, HTML, CSS, JavaScript, and the MyMemory translation API.
 
 ## How to run
 
-1. Install Python.
-2. Download and extract the project.
+
 3. On Windows, double-click START_WINDOWS.bat.
 4. Open the local address shown in the terminal.
 
