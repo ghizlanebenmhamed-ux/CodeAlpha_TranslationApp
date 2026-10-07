@@ -1,1 +1,2 @@
-# Python standard library only. No pip packages required.
+nltk>=3.8,<4
+scikit-learn>=1.3,<2

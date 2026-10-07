@@ -1,5 +1,2 @@
-10 backend automated tests passed.
-JavaScript syntax check passed using node --check.
-Live API checks succeeded: English to French: Bonjour, comment vas-tu?; English to Arabic: صباح الخير; English to Simplified Chinese: 谢谢.
-Browser interaction and microphone/playback were not verified here because the browser runtime could not be installed. Confirm these on your laptop.
-Windows launcher was not executed in this Linux environment.
+7 automated tests passed: stored FAQ matching, example questions and fallback, Send handler, Enter handler, empty input, error response, and clearing chat.
+GUI handlers tested using mock widgets. Desktop window was not visually tested in this environment.

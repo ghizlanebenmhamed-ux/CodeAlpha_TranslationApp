@@ -1,0 +1,176 @@
+[
+  {
+    "topic": "course registration",
+    "questions": [
+      "How do I register for courses?",
+      "How can I enroll in a class?",
+      "Where can I choose my subjects?"
+    ],
+    "answer": "Open your student portal, find course registration, select your courses, and submit your choices."
+  },
+  {
+    "topic": "timetables",
+    "questions": [
+      "Where is my class timetable?",
+      "How can I check my class schedule?",
+      "When are my lessons?"
+    ],
+    "answer": "Check the timetable section of your student portal for class times and classrooms."
+  },
+  {
+    "topic": "exams",
+    "questions": [
+      "Where can I see my exam schedule?",
+      "When are the exams?",
+      "How do I check examination dates?"
+    ],
+    "answer": "Check the examination section of your student portal or your department notices."
+  },
+  {
+    "topic": "grades",
+    "questions": [
+      "How can I check my grades?",
+      "Where can I see my results?",
+      "How do I view my marks?"
+    ],
+    "answer": "Open your student portal and select grades or academic results."
+  },
+  {
+    "topic": "passwords",
+    "questions": [
+      "I forgot my password",
+      "How do I reset my student portal password?",
+      "I cannot log in to my student account"
+    ],
+    "answer": "Use the portal password reset option. If it fails, contact university IT support."
+  },
+  {
+    "topic": "student cards",
+    "questions": [
+      "How can I get a student ID card?",
+      "How do I replace a lost student card?"
+    ],
+    "answer": "Contact student services for student card applications or replacement procedures."
+  },
+  {
+    "topic": "library borrowing",
+    "questions": [
+      "How do I borrow books?",
+      "How do I borrow books from the library?",
+      "Can I borrow a library book?"
+    ],
+    "answer": "Use your student card at the library borrowing desk or self-service machine. Check the return date."
+  },
+  {
+    "topic": "library hours",
+    "questions": [
+      "What are the library opening hours?",
+      "When does the library open?",
+      "When does the library close?"
+    ],
+    "answer": "Check the official library website or entrance notice for current opening hours."
+  },
+  {
+    "topic": "WiFi",
+    "questions": [
+      "How do I connect to campus WiFi?",
+      "How do I access university internet?"
+    ],
+    "answer": "Choose the official campus WiFi network and follow its login instructions. Contact IT support if needed."
+  },
+  {
+    "topic": "scholarships",
+    "questions": [
+      "How can I apply for a scholarship?",
+      "Where can I find scholarship information?",
+      "What documents are needed for scholarships?"
+    ],
+    "answer": "Check official scholarship notices for eligibility, documents, and deadlines. Apply through the stated channel."
+  },
+  {
+    "topic": "tuition fees",
+    "questions": [
+      "How do I pay tuition fees?",
+      "Where can I pay university fees?"
+    ],
+    "answer": "Check the official university finance portal or contact the finance office for approved payment methods."
+  },
+  {
+    "topic": "housing",
+    "questions": [
+      "How do I apply for a dormitory?",
+      "How can I get campus accommodation?",
+      "Where can I apply for student housing?"
+    ],
+    "answer": "Contact the accommodation office or use the official housing application system."
+  },
+  {
+    "topic": "clubs",
+    "questions": [
+      "How can I join a student club?",
+      "How do I join campus activities?"
+    ],
+    "answer": "Check student association announcements and follow the club registration instructions."
+  },
+  {
+    "topic": "teachers",
+    "questions": [
+      "How do I contact my teacher?",
+      "Where can I find my professor email?",
+      "How can I contact my professor?"
+    ],
+    "answer": "Check your course page or department directory for official contact details and office hours."
+  },
+  {
+    "topic": "transcripts",
+    "questions": [
+      "How do I get an academic transcript?",
+      "Where can I request my transcript?"
+    ],
+    "answer": "Request an official transcript through the registrar or the university document request system."
+  },
+  {
+    "topic": "missed exams",
+    "questions": [
+      "What should I do if I miss an exam?",
+      "Can I apply for a makeup exam?",
+      "I was absent from an examination"
+    ],
+    "answer": "Contact your department immediately. Ask about makeup exam rules and required supporting documents."
+  },
+  {
+    "topic": "leave",
+    "questions": [
+      "How do I apply for sick leave?",
+      "How can I request leave from class?",
+      "What should I do if I am sick?"
+    ],
+    "answer": "Notify your teacher and follow the university leave procedure. A medical document may be required."
+  },
+  {
+    "topic": "medical services",
+    "questions": [
+      "Where can I get medical help on campus?",
+      "Is there a campus clinic?",
+      "Where is the university health center?"
+    ],
+    "answer": "Check the official campus map or ask student services for the health center location and contact details."
+  },
+  {
+    "topic": "changing majors",
+    "questions": [
+      "How can I change my major?",
+      "Can I transfer to another department?"
+    ],
+    "answer": "Ask your academic office about transfer eligibility, deadlines, and approvals."
+  },
+  {
+    "topic": "internships",
+    "questions": [
+      "How do I apply for an internship?",
+      "Where can I find internship opportunities?",
+      "How do I find an internship?"
+    ],
+    "answer": "Check career services and department announcements for internship opportunities and application instructions."
+  }
+]
